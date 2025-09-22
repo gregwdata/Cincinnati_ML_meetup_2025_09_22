@@ -1,4 +1,6 @@
 import requests, time, os
+from dotenv import load_dotenv
+load_dotenv()
 
 PHONE_URL = 'http://' + os.getenv('PHYPHOX_ADDRESS')
 PP_CHANNELS = ["accX", "accY", "accZ","acc","acc_time"]
