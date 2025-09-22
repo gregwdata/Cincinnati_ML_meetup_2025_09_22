@@ -1,0 +1,1 @@
+uvx label-studio start

@@ -1,0 +1,12 @@
+<View>
+    <!-- Control tag for region labels -->
+    <TimeSeriesLabels name="label" toName="ts">
+                
+    <Label value="Cleese" background="#9edfff"/><Label value="Palin" background="#eb98ec"/><Label value="Forward Walk" background="#FFC069"/></TimeSeriesLabels>
+
+    <!-- Object tag for time series data source -->
+    <TimeSeries name="ts" valueType="json" value="$ts" timeColumn="acc_time" overviewChannels="acc">
+
+        <Channel column="acc" units="m/s^2" displayFormat=",.3f" strokeColor="#ff7f0e" legend="Acceleration"/>
+    </TimeSeries>
+</View>
