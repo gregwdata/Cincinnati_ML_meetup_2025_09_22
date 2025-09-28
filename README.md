@@ -6,7 +6,7 @@ Greg Wilson <a href="https://github.com/gregwdata" class="ns-c-iconlink"><mdi-gi
 
 This repo includes demo code that accompany the presentation "Data Science in Motion", given at the [Cincinnati Machine Learning Meetup](https://www.meetup.com/cincinnati-machine-learning-meetup/events/304736483/), 22 September, 2025.
 
-The presentation is available in *link to be added soon*
+The presentation can be viewed [here](https://gregwdata.github.io/Slides_Cincinnati_ML_meetup_2025_09_22)
 
 ## Contents
 
